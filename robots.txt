@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /kredity
+
+Sitemap: https://m345773.github.io/kickin-stav-preview/sitemap.xml
